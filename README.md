@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @xujiehui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+### 你好，世界 👋
+
+- :orange_book: Focusing on Web development
+- :meat_on_bone: Meat lover
 
 <!---
 xujiehui/xujiehui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
